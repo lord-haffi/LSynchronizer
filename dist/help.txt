@@ -1,0 +1,6 @@
+Um das Programm zu starten, müssen Sie zwei unterschiedliche Verzeichnisse angeben und den "Synchronisieren"-Button drücken.
+Durch das vorherige Scannen der Verzeichnisse können Unterordner zur partiellen Synchronisation synchronisiert werden (aber nur, wenn vorher schon einmal das
+komplette Verzeichnis synchronisiert worden ist).
+Sollte hierbei ein Fehler auftreten, wird der Fehler im Textfeld ausgegeben.
+Sollte es ein interner Fehler sein, wird zusätzlich ein Fehlerbericht erstellt, der dem Programmierer dann zum Beheben des Fehlers zugeschickt werden sollte.
+Nach Beenden des Prozesses kann außerdem ein log-File des Prozesses (auf dem Desktop) erstellt werden.

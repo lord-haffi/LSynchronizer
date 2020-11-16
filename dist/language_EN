@@ -1,0 +1,53 @@
+File
+Open source-directory
+Open destination-directory
+Update program
+synchronized recent
+Help
+Description
+Choose source-directory
+Choose destination-directory
+Progress
+Remaining time
+Synchronize
+Cancel
+Create log-File
+Scan
+The program is updating
+Error while updating the program
+Error: The readme-file could not be open
+Scan directories
+The Recent-File seems to be damaged
+The Recent-File could not be deleted
+Total count of files
+Files
+Files without an extension
+Scan canceled
+You must choose two directories
+Scan was successfully
+Synchronizing has started
+Time calculation
+Calculating the size of both directories
+The process was successfully
+The process was canceled
+Errors:
+Log-File
+created
+Preferences
+Synchronization program
+Language
+Apply
+Please restart the program to apply the changes
+and
+File
+Warning: You are going to synchronize two directories without the same name. Do you want to continue?
+Warning
+Updating the recent-File failed
+Background image
+Image file
+Open image file
+Error: Cannot open image file
+Reading log-File
+Error: The selected files are new.
+You must synchronize a parent-directory, which existed at the last time of synchronization.
+Updating log-File.
